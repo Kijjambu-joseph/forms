@@ -1,0 +1,31 @@
+
+
+.frame{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    place-items: center;
+    border-radius: 5px;
+
+}
+
+.inputt input{
+    width: 200px;
+    height: 30px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid;
+    
+}
+
+
+
+.btnn button{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(110, 233, 110);
+    color: white;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+}

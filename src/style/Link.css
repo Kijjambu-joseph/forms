@@ -1,0 +1,63 @@
+
+
+body{
+    background-color: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 100px; 
+    
+}
+
+.container h1{
+    margin: 0px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+
+.mail{
+    margin-top: 10px;
+}
+
+.mail input{
+    width: 200px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+
+.btn button{
+    margin-top: 14px;
+    width: 204px;
+    height: 30px;
+    background: rgb(130, 212, 130);
+    color: white;
+    border: none ;
+    border-radius: 5px;
+    margin-bottom: 14px;
+}
+
+.enter{
+    color: rgb(130, 212, 130);
+}
+
+.pen p{
+    margin: 0px;
+}
+
+

@@ -1,0 +1,29 @@
+
+.plot{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    place-items: center;
+    border-radius: 5px;
+}
+.scan input{
+    width: 270px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid;
+    
+}
+
+
+
+
+.btn01 button{
+    width: 270px;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+    background-color: rgb(70, 189, 70);
+    color: white;
+}
+
