@@ -1,17 +1,23 @@
 
 .plot{
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: auto;
     background-color: white;
     place-items: center;
     border-radius: 5px;
+    border:1px gray solid;
 }
 .scan input{
-    width: 270px;
-    height: 40px;
+    width: 250px;
+    height: 30px;
     border-radius: 5px;
     border: 1px solid;
-    
+    font-size:15px;
+    padding:10px;
+}
+.scan {
+    display:flex;
+    flex-direction: column;
 }
 
 
