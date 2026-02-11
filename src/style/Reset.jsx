@@ -8,10 +8,12 @@ function Reset(){
             <div className="rest">
 
                 <div className="index">
+                    <label htmlFor="new password">New password</label>
                     <input type="text" placeholder="New password" required/>
                 </div>
 
                 <div className="index">
+                    <label htmlFor="comfirm password">Comfirm password</label>
                     <input type="text" placeholder="Comfirm password" required/>
                 </div>
             
@@ -19,8 +21,8 @@ function Reset(){
                     <button>update</button>
                 </div>
 
-                <div>
-                    <p>Then ,<a href="Link">Login</a></p>
+                <div className="proceed">
+                    <p>Then ,<a href="Link">Login</a> </p>
                 </div>
             </div>
 
