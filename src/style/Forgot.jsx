@@ -7,6 +7,7 @@ function Forgot(){
                         <h1>Forgot password</h1>
 
                         <div className="scan">
+                            <label htmlFor="Email">Email</label>
                              <input type="text" placeholder="Email" required/>
                         </div>
 
