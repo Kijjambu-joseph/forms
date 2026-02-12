@@ -9,10 +9,12 @@ function Link(){
                     <h1>Login form</h1>
                 </div>
                 <div className="mail">
+                    <label htmlFor="Email">Email</label>
                     <input type="text" placeholder="Email" required/>
                 </div>
 
                 <div className="mail">
+                    <label htmlFor="Password">Password</label>
                     <input type="password" placeholder="Password" required />
                 </div>
 
