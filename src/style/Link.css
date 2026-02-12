@@ -9,8 +9,8 @@ body{
 }
 
 .container{
-    width: 300px;
-    height: 350px;
+    width: 350px;
+    height: auto;
     background-color: white;
     display: flex;
     align-items: center;
@@ -29,10 +29,12 @@ body{
 
 .mail{
     margin-top: 10px;
+    display:flex;
+    flex-direction:column;
 }
 
 .mail input{
-    width: 200px;
+    width: 250px;
     height: 30px;
     border: 1px solid;
     border-radius: 5px;
@@ -43,7 +45,7 @@ body{
 
 .btn button{
     margin-top: 14px;
-    width: 204px;
+    width: 250px;
     height: 30px;
     background: rgb(130, 212, 130);
     color: white;
