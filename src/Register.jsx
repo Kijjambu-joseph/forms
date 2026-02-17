@@ -5,7 +5,9 @@ function Register(){
     return(
         <form action="">
             <div className="frame">
-                        <h1>Registration form</h1>
+                        <div>
+                            <h1>Registration form</h1>
+                        </div>
 
                 <div className="inputt">
                     <label htmlFor="fullname">FullName</label>
